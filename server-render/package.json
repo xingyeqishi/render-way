@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "babel": "babel app/components/ -d build && webpack",
-    "server": "nodemon --experimental-modules app/server/index.mjs"
+    "start": "npm run babel && node --experimental-modules app/server/index.mjs"
   },
   "keywords": [],
   "author": "",
