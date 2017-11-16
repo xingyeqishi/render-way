@@ -1,0 +1,19 @@
+{
+  "name": "render-way",
+  "version": "1.0.0",
+  "description": "客户端渲染 服务器端渲染 同构渲染",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xingyeqishi/render-way.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xingyeqishi/render-way/issues"
+  },
+  "homepage": "https://github.com/xingyeqishi/render-way#readme"
+}
